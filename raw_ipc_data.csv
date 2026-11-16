@@ -1,0 +1,51 @@
+﻿meta_instance_id,submission_date,collector_id,department,staff_count,hand_hygiene_available,ppe_available,waste_segregation_ok,form_duration_sec,gps_latitude,gps_longitude
+uuid:ipc-2026-1014,11/9/2026,Ahmed_K,Maternity,14,no,Yes,Yes,600,15.504017,32.557975
+uuid:ipc-2026-1040,12/11/2026,Ahmed_K,PEDIATRICS,5,yes,no,Yes,600,15.502334,32.556146
+uuid:ipc-2026-1031,11/6/2026,Omer_H,PEDIATRICS,,yes,Yes,Yes,720,15.496141,32.558236
+uuid:ipc-2026-1003,11/7/2026,Mona_A,Maternity,خمسة,Yes,No,  No ,720,15.497255,32.564472
+uuid:ipc-2026-1018,11/9/2026,Tariq_S,Emergency,12,Yes,  No ,  No ,45,15.504754,32.563496
+uuid:ipc-2026-1022,2/11/2026,Tariq_S,icu,15,  No ,YES,Yes,60,15.504187,32.556563
+uuid:ipc-2026-1027,9/11/2026,Omer_H,Emergency,14,No,yes,no,180,15.4987,32.558062
+uuid:ipc-2026-1026,11/10/2026,Sara_M,surgical ward ,22,YES,No,YES,45,15.499892,32.560737
+uuid:ipc-2026-1033,11/2/2026,Sara_M,PEDIATRICS,15,yes,YES,YES,180,15.496118,32.558547
+uuid:ipc-2026-1020,11/2/2026,Mona_A,Surgical Ward,0,no,no,  No ,45,15.505542,32.555884
+uuid:ipc-2026-1013,12/11/2026,Tariq_S,  ICU ,22,  No ,yes,  No ,900,15.497228,32.562525
+uuid:ipc-2026-1005,11/7/2026,Tariq_S,emergency,20,YES,No,  No ,60,,
+uuid:ipc-2026-1038,11/7/2026,Tariq_S,Surgical Ward,12,Yes,yes,No,510,,
+uuid:ipc-2026-1009,11/10/2026,Omer_H,Emergency,,no,  No ,no,180,15.498166,32.560514
+uuid:ipc-2026-1004,11/6/2026,Ahmed_K,surgical ward ,22,yes,yes,YES,510,15.502997,32.560262
+uuid:ipc-2026-1007,11/12/2026,Ahmed_K,Maternity,10,YES,  No ,No,180,15.498399,32.564154
+uuid:ipc-2026-1042,11/7/2026,Sara_M,Maternity,غير متوفر,no,YES,Yes,510,15.499999,32.5607
+uuid:ipc-2026-1008,11/12/2026,Sara_M,  Maternity,14,Yes,No,Yes,600,15.496362,32.564031
+uuid:ipc-2026-1015,11/1/2026,Tariq_S,icu,8,  No ,no,Yes,900,15.496984,32.559653
+uuid:ipc-2026-1016,11/9/2026,Omer_H,PEDIATRICS,0,No,YES,  No ,420,15.49969,32.561617
+uuid:ipc-2026-1010,11/5/2026,Tariq_S,surgical ward ,-2,yes,No,No,900,15.503258,32.563511
+uuid:ipc-2026-1017,6/11/2026,Tariq_S,Pediatrics,22,No,No,Yes,600,,
+uuid:ipc-2026-1025,12/11/2026,Ahmed_K,ICU,,YES,YES,No,45,15.496501,32.556758
+uuid:ipc-2026-1035,11/3/2026,Sara_M,  ICU ,0,Yes,No,  No ,600,15.499817,32.561599
+uuid:ipc-2026-1032,11/3/2026,Omer_H,  ICU ,150,YES,  No ,no,900,,
+uuid:ipc-2026-1001,11/11/2026,Ahmed_K,Outpatient,خمسة,No,No,No,60,15.504622,32.555769
+uuid:ipc-2026-1045,4/11/2026,Tariq_S,icu,150,no,  No ,YES,420,15.49954,32.558897
+uuid:ipc-2026-1028,11/13/2026,Ahmed_K,Pediatrics,22,Yes,YES,No,900,15.505033,32.563709
+uuid:ipc-2026-1034,11/13/2026,Omer_H,Emergency,30,  No ,Yes,yes,900,15.499764,32.561107
+uuid:ipc-2026-1006,4/11/2026,Ahmed_K,Emergency,22,no,yes,no,600,15.499253,32.561602
+uuid:ipc-2026-1030,9/11/2026,Ahmed_K,  ICU ,خمسة,Yes,Yes,  No ,900,15.498518,32.557006
+uuid:ipc-2026-1012,11/9/2026,Ahmed_K,  Maternity,خمسة,  No ,yes,Yes,510,15.500237,32.564438
+uuid:ipc-2026-1037,11/13/2026,Sara_M,ICU,5,no,yes,yes,60,15.498491,32.561315
+uuid:ipc-2026-1002,11/7/2026,Ahmed_K,icu,5,No,YES,YES,45,15.50286,32.561913
+uuid:ipc-2026-1022,2/11/2026,Tariq_S,icu,15,  No ,YES,Yes,60,15.504187,32.556563
+uuid:ipc-2026-1003,11/7/2026,Mona_A,Maternity,خمسة,Yes,No,  No ,720,15.497255,32.564472
+uuid:ipc-2026-1044,11/11/2026,Omer_H,PEDIATRICS,14,Yes,No,  No ,510,15.497691,32.555144
+uuid:ipc-2026-1036,11/12/2026,Omer_H,  ICU ,22,no,Yes,no,420,15.504885,32.558397
+uuid:ipc-2026-1024,11/7/2026,Tariq_S,  Maternity,,No,No,yes,420,15.501492,32.560322
+uuid:ipc-2026-1041,11/5/2026,Omer_H,  Maternity,0,yes,no,  No ,510,15.497618,32.561549
+uuid:ipc-2026-1011,11/3/2026,Sara_M,  Maternity,0,YES,Yes,no,720,15.50038,32.557414
+uuid:ipc-2026-1023,8/11/2026,Sara_M,surgical ward ,15,No,no,Yes,720,15.503541,32.55945
+uuid:ipc-2026-1019,11/2/2026,Sara_M,emergency,,No,YES,No,840,15.50043,32.558971
+uuid:ipc-2026-1031,11/6/2026,Omer_H,PEDIATRICS,,yes,Yes,Yes,720,15.496141,32.558236
+uuid:ipc-2026-1021,11/7/2026,Omer_H,icu,30,No,No,YES,840,15.497535,32.559526
+uuid:ipc-2026-1008,11/12/2026,Sara_M,  Maternity,14,Yes,No,Yes,600,15.496362,32.564031
+uuid:ipc-2026-1043,11/11/2026,Mona_A,Pediatrics,150,  No ,No,YES,840,15.505298,32.56226
+uuid:ipc-2026-1015,11/1/2026,Tariq_S,icu,8,  No ,no,Yes,900,15.496984,32.559653
+uuid:ipc-2026-1029,4/11/2026,Omer_H,  ICU ,150,YES,  No ,yes,900,,
+uuid:ipc-2026-1039,10/11/2026,Omer_H,Outpatient,14,no,YES,YES,60,15.501466,32.557447
